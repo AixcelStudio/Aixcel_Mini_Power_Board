@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armJET.dll" 
+
+"E:\Aixcel_Robot_Ctrl_System_HW_Examine_Git\Aixcel_Mini_Power_Board_HW_Check\AT32F403ACGT7_IAR\EWARM\Release\Exe\Aixcel_Mini_Power_Board_MCU.out" 
+
+--plugin "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\bin\armbat.dll" 
+
+--device_macro "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\config\debugger\ArteryTek\AT32F4xx_XL.dmac" 
+
+--flash_loader "C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.4\arm\config\flashloader\Nations\N32G455xC\N32G455xC.board" 
+
+
+
+
